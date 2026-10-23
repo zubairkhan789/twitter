@@ -1,0 +1,6 @@
+{
+  "name": "Zubair WebsiteWala - AI Social Platform",
+  "description": "The premier social platform for AI explorers, vibe coders, and tool discovery by Zubair WebsiteWala.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
